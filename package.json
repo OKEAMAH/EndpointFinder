@@ -9,7 +9,7 @@
   "author": "Olivier Arteau",
   "license": "MIT",
   "dependencies": {
-    "acorn": "^5.7.3"
+    "acorn": "^8.11.3"
   },
   "devDependencies": {
     "jasmine": "^3.2.0"
